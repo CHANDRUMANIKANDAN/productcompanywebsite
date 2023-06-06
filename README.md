@@ -516,16 +516,16 @@ body {
 ## OUTPUT:
 
 ### Home Page:
-![output](home.png)
+![output](home.jpg)
 
 ### Product Page:
-![output](product.png)
+![output](product.jpg)
 
 ### People Page:
-![output](people.png)
+![output](people.jpg)
 
 ### Contact Page:
-![output](contact.png)
+![output](contact.jpg)
 
 
 ## Result:
